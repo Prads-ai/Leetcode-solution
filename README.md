@@ -1,1 +1,2 @@
 # Leetcode-solution
+Welcome to my folder of LeetCode solutions! This folder contains my solutions to various LeetCode problems, which I have completed as part of my journey in learning data structures and algorithms. Each solution is written in either Java or Python and includes detailed comments explaining the thought process and approach taken. I hope these solutions serve as a helpful resource for others on their coding journey.
